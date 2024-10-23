@@ -1,0 +1,25 @@
+[[libwebsockets]]
+arch = "aarch64"
+git-tree-sha1 = "438a6c5326f37b7ad8ec1ef0449748ae788b56ff"
+os = "macos"
+
+    [[libwebsockets.download]]
+    sha256 = "9aabf2131a11ebdac17e5f85cf0f16c91f109046fc4e2fe2ed92c5614602ed58"
+    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+0/libwebsockets.v4.3.3.aarch64-apple-darwin.tar.gz"
+[[libwebsockets]]
+arch = "x86_64"
+git-tree-sha1 = "267d15a70f1b6642c27c5f5160ca9dc163a4ca91"
+os = "macos"
+
+    [[libwebsockets.download]]
+    sha256 = "75e1b9044be06103559da136847da8a5fe63bb6e4aa43b5a1a04194df8b1e4cd"
+    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+0/libwebsockets.v4.3.3.x86_64-apple-darwin.tar.gz"
+[[libwebsockets]]
+arch = "x86_64"
+git-tree-sha1 = "00090827d1ccb6fb7abe19a5ebcaf764bece7af6"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "fed772962957f553b2305f8afd5149786b3ae98ca00bd35cafa1f1156437dee8"
+    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+0/libwebsockets.v4.3.3.x86_64-linux-gnu.tar.gz"
