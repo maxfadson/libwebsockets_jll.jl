@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libwebsockets_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/warmcat/libwebsockets.git (revision: `5102a5c8d6110b25a01492fcf96fb668b13dd6e7`)
+* git repository: https://github.com/warmcat/libwebsockets.git (revision: `4415e84c095857629863804e941b9e1c2e9347ef`)
 
 ## Platforms
 
