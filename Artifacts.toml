@@ -1,25 +1,8 @@
 [[libwebsockets]]
 arch = "aarch64"
-git-tree-sha1 = "95f53a8eb49bf01af715aec2aff3aeea02863bf8"
+git-tree-sha1 = "3ba3e49187f068bbb1f552ecd3f365be7bfdcbb6"
 os = "macos"
 
     [[libwebsockets.download]]
-    sha256 = "68dddc01f4e374b649dea89206c2407a24db1b0a130226f262f5879719fa13d3"
-    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3-bin/libwebsockets.v4.3.3.aarch64-apple-darwin.tar.gz"
-[[libwebsockets]]
-arch = "x86_64"
-git-tree-sha1 = "a26c0851c34b0fcc093ca94cc9c39629373b5091"
-os = "macos"
-
-    [[libwebsockets.download]]
-    sha256 = "3184e021569187355e84c1a461489a76f90fac1039f826fb9fb77408078f7c3d"
-    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3-bin/libwebsockets.v4.3.3.x86_64-apple-darwin.tar.gz"
-[[libwebsockets]]
-arch = "x86_64"
-git-tree-sha1 = "95ced4f46933bfca7ea6ee8affb3d6790faaa524"
-libc = "glibc"
-os = "linux"
-
-    [[libwebsockets.download]]
-    sha256 = "e72bfb033630b76a988e1b529cb1b53197a511f314a62246363d77801dd16db5"
-    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3-bin/libwebsockets.v4.3.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "edc552ad2545a16cb66c1834e273398f18fef053f5c5e02fd9a471381e10a436"
+    url = "https://gitlab.advsys.work/te/sandbox/libwebsockets_jll.jl/-/package_files/52/download"
