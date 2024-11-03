@@ -5,7 +5,7 @@ os = "macos"
 
     [[libwebsockets.download]]
     sha256 = "edc552ad2545a16cb66c1834e273398f18fef053f5c5e02fd9a471381e10a436"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.aarch64-apple-darwin.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
 git-tree-sha1 = "dd12fa18f9a128f432a4ae5816ef416cab7bb590"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "0ad6eebb02bb5c466893b73eb344f4ed9e01127fba2ae69950124436e38c8607"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.aarch64-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
 git-tree-sha1 = "84606304df6e694bc5e942c8a7202e1245a679d2"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "c887ac785264f0dec50b5f443e8d2a3c5841f234cd08a3cea9b0967fbe147d39"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.aarch64-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "aarch64"
 git-tree-sha1 = "2fc7359685d86afc70248ea55b359891dfcfea18"
@@ -31,7 +31,7 @@ os = "freebsd"
 
     [[libwebsockets.download]]
     sha256 = "bf1c007417df887eb968ad750ff9be874c3cd1bf1de040e38633db9865dce6b3"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.aarch64-unknown-freebsd.tar.gz"
 [[libwebsockets]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "0c4ca86f65d4b990f9a726bf428a652b6a38616703971308d509c2d48c1f6a61"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.armv6l-linux-gnueabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "e0664fd2c090b3ee818267c446cbd3a6902dea2de0300abf0abf15b04f4dece1"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.armv6l-linux-musleabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "002b4e34ddead4afc06ff1fd04d6eac5c7e82fa4b022bd004dd09ae134d7892c"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.armv7l-linux-gnueabihf.tar.gz"
 [[libwebsockets]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "58ad6f1db4159f69c083aee662a689151dfef82420813ac5a39d0a4dc28ac567"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.armv7l-linux-musleabihf.tar.gz"
 [[libwebsockets]]
 arch = "i686"
 git-tree-sha1 = "a13e54a4ca8ba21b1b468e52085bfb9c974119c5"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "80f42db52b33471ee9efb9db66708aeb21e7d8e435c6af9078d7d597d01bcfcf"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.i686-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.i686-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "i686"
 git-tree-sha1 = "345c07c3b6180e754ed9dc08da56c09d36b4b588"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "6dac3a178e4eeb3884f0a5abf02cafb0b08ee501a72dac1555833f49d33d2a04"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.i686-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.i686-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "powerpc64le"
 git-tree-sha1 = "50f7625af573f9c8c2640e99a0afa5ed9be392bc"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "0bc90c6377933f8a7a11657644d95cac84d32b7971e4d66033a699e02196f389"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.powerpc64le-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
 git-tree-sha1 = "2434aa8eac6dd9d100122f5fb948ca5f4f9473ec"
@@ -106,7 +106,7 @@ os = "macos"
 
     [[libwebsockets.download]]
     sha256 = "5cd3fcca1ccfec90497252f577d0696c292504bace38f4235707978607a8df10"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.x86_64-apple-darwin.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
 git-tree-sha1 = "eb31bc461b8fae979966f4cb8a9afefab6cf2eae"
@@ -115,7 +115,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "01ead1d9baf338618423ac50cf0c7acc4698501cbcbc5371761a70b33b0ba9fe"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.x86_64-linux-gnu.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
 git-tree-sha1 = "e1f76cf42b88820a7af9456844f84197ee8c1f77"
@@ -124,7 +124,7 @@ os = "linux"
 
     [[libwebsockets.download]]
     sha256 = "e5682bcc1d889955b8f8288b2a5a64c03d9f743ba9b95bd35e33d21c072c1932"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.x86_64-linux-musl.tar.gz"
 [[libwebsockets]]
 arch = "x86_64"
 git-tree-sha1 = "f1ccb53d36cf43c14edfc3a858d03d70ab98c815"
@@ -132,4 +132,4 @@ os = "freebsd"
 
     [[libwebsockets.download]]
     sha256 = "4eb762eeb1abae948ce93140066b570fa9d8913a93daf84ac89d8b7dfe250217"
-    url = "https://github.com/local/releases/download/libwebsockets-v4.3.3+1/libwebsockets.v4.3.3.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/maxfadson/libwebsockets_jll.jl/releases/download/4.3.3/libwebsockets.v4.3.3.x86_64-unknown-freebsd.tar.gz"
